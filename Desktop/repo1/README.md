@@ -1,3 +1,3 @@
 # First Repository
 
-Sample project on how to use GIT
+Sample project on how to use 
